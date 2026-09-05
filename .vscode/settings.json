@@ -1,0 +1,24 @@
+{
+  "sqltools.connections": [
+    {
+      "name": "csv_project (local)",
+      "driver": "PostgreSQL",
+      "server": "localhost",
+      "port": 5432,
+      "database": "csv_project",
+      "username": "postgres",
+      "askForPassword": true
+    },
+    {
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "Airbnb_Paris_dataset",
+      "database": "Airbnb_Paris_dataset",
+      "username": "postgres"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
