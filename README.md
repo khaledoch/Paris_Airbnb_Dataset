@@ -1,5 +1,7 @@
 # 🏠 Paris Airbnb Market Analysis
 
+**Built with:** 🐘 PostgreSQL · 🐍 Python (pandas) · 📗 Excel · 📊 Power BI
+
 An end-to-end analysis of the Paris Airbnb market, built from raw CSV files through PostgreSQL, Python, Excel, and Power BI.
 
 The project answers one practical question:
